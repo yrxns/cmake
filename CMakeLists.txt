@@ -12,7 +12,7 @@
 cmake_minimum_required (VERSION 3.24.2)
 
 # 项目名称
-project (yrxns)
+project (yrxns VERSION 1.0)
 
 #C99
 set(CMAKE_C_STANDARD 99)
